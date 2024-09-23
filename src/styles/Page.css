@@ -1,0 +1,13 @@
+.page-bg {
+  background-color: white;
+  background-image: linear-gradient(
+      rgba(200, 200, 200, 0.5) 1px,
+      transparent 1px
+    ),
+    linear-gradient(90deg, rgba(200, 200, 200, 0.5) 1px, transparent 1px);
+  background-size: 2em 2em;
+}
+
+input {
+  outline: none;
+}
